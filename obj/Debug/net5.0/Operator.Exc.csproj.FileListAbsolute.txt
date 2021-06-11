@@ -1,0 +1,16 @@
+C:\Users\Liv\Desktop\repos\Operator.Exc\bin\Debug\net5.0\Operator.Exc.exe
+C:\Users\Liv\Desktop\repos\Operator.Exc\bin\Debug\net5.0\Operator.Exc.deps.json
+C:\Users\Liv\Desktop\repos\Operator.Exc\bin\Debug\net5.0\Operator.Exc.runtimeconfig.json
+C:\Users\Liv\Desktop\repos\Operator.Exc\bin\Debug\net5.0\Operator.Exc.runtimeconfig.dev.json
+C:\Users\Liv\Desktop\repos\Operator.Exc\bin\Debug\net5.0\Operator.Exc.dll
+C:\Users\Liv\Desktop\repos\Operator.Exc\bin\Debug\net5.0\ref\Operator.Exc.dll
+C:\Users\Liv\Desktop\repos\Operator.Exc\bin\Debug\net5.0\Operator.Exc.pdb
+C:\Users\Liv\Desktop\repos\Operator.Exc\obj\Debug\net5.0\Operator.Exc.csproj.AssemblyReference.cache
+C:\Users\Liv\Desktop\repos\Operator.Exc\obj\Debug\net5.0\Operator.Exc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liv\Desktop\repos\Operator.Exc\obj\Debug\net5.0\Operator.Exc.AssemblyInfoInputs.cache
+C:\Users\Liv\Desktop\repos\Operator.Exc\obj\Debug\net5.0\Operator.Exc.AssemblyInfo.cs
+C:\Users\Liv\Desktop\repos\Operator.Exc\obj\Debug\net5.0\Operator.Exc.csproj.CoreCompileInputs.cache
+C:\Users\Liv\Desktop\repos\Operator.Exc\obj\Debug\net5.0\Operator.Exc.dll
+C:\Users\Liv\Desktop\repos\Operator.Exc\obj\Debug\net5.0\ref\Operator.Exc.dll
+C:\Users\Liv\Desktop\repos\Operator.Exc\obj\Debug\net5.0\Operator.Exc.pdb
+C:\Users\Liv\Desktop\repos\Operator.Exc\obj\Debug\net5.0\Operator.Exc.genruntimeconfig.cache
